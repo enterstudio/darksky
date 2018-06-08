@@ -23,22 +23,18 @@
   "bugs": {
     "url": "https://github.com/cloudmu/darksky/issues"
   },
-
   "proxy": "http://localhost:3001",
-  
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
-
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.4",
-    "plotly.js": "1.21.3",
+    "plotly.js": "1.35.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-addons-shallow-compare": "15.4.2"
   },
-  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
